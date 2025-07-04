@@ -19,7 +19,7 @@ adb install app/build/outputs/apk/debug/app-debug.
 
 
 ## 🗂️ Project Layout
-
+```
 CurrencyConverter/
 ├─ app/
 │   ├─ src/main/java/com/example/currencyconverter/
@@ -36,6 +36,7 @@ CurrencyConverter/
 ├─ docs/            ← screenshots & banner
 ├─ .gitignore
 ├─ README.md
+```
 
 
 ## 📦 Dependencies
