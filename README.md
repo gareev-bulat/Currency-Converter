@@ -5,7 +5,7 @@ A modern Android app (Material 3 + Java) that lets you…
 | Screen | What it does |
 | ------ | ------------ |
 | **Currency Rates** | Scrapes the up-to-date *x-rates.com* table, shows each currency as a Card (flag + name + 2 rates + % change). |
-| **Currency Converter** | Converts any amount between 170+ currencies **offline** (after a single fetch) – rates are passed from the table screen, so converting continues to work without network. |
+| **Currency Converter** | Converts any amount between 30+ currencies **offline** (after a single fetch) – rates are passed from the table screen, so converting continues to work without network. |
 | **Bank-Note Gallery** | Tap through bank-note images and ISO codes for a quick visual reference. |
 
 ---
