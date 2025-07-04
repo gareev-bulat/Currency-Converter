@@ -41,11 +41,11 @@ CurrencyConverter/
 
 ## 📦 Dependencies
 
-
+```
 org.jsoup:jsoup:1.17.2 - HTML scraping for live rates
 com.google.android.material:material:1.11.0 - Material 3 widgets
 AndroidX – AppCompat, ConstraintLayout, DrawerLayout - Core UI & navigation
-
+```
 
 ## Important Info
 
