@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="@string/home"
+        />
+        <item android:id="@+id/currency_converter"
+            android:title="@string/currency_converter"
+            />
+        <item android:id="@+id/bank_bill_types"
+            android:title="@string/bank_bill_types"
+            />
+        </group>
+</menu>

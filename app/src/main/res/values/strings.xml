@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="first_sentence">Currency Rates</string>
+    <string name="header_first">Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="bank_bill_types">Types of Currencies</string>
+    <string name="home">Currency Rate</string>
+    <string name="select">Select</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="currency_flag">Currency flag</string>
+    <string name="units_per_usd">Units/USD: %1$s</string>
+    <string name="usd_per_unit">USD/unit: %1$s</string>
+</resources>
