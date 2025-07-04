@@ -1,3 +1,27 @@
+# Currency Converter 📱💱
+
+A modern Android app (Material 3 + Java) that lets you…
+
+| Screen | What it does |
+| ------ | ------------ |
+| **Currency Rates** | Scrapes the up-to-date *x-rates.com* table, shows each currency as a Card (flag + name + 2 rates + % change). |
+| **Currency Converter** | Converts any amount between 170+ currencies **offline** (after a single fetch) – rates are passed from the table screen, so converting continues to work without network. |
+| **Bank-Note Gallery** | Tap through bank-note images and ISO codes for a quick visual reference. |
+
+---
+
+## Prerequisites 🛠️
+
+| Tool | Version - tested | Notes |
+| ---- | --------------- | ----- |
+| **Android Studio** | Flamingo or higher (incl. Giraffe/Hedgehog) | Uses **Material 1.11.0** & Gradle **8.2+** wrapper. |
+| **JDK** | 17 (LTS) | Bundled with recent Studio; no extra setup needed. |
+| **Android SDK** | API 34 (Android 14) + **Build-Tools 34.0.0** | Older APIs compile fine, just change `compileSdk` / `targetSdk`. |
+| **Internet access** | First run only | Fetches live rates via Jsoup. Afterwards conversion works offline for the current session. |
+
+
+
+
 ## ✨ Features
 | | |
 |---|---|
